@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+*{
+	font-family: 'Indie Flower', cursive;
+}
+
+.span{
+	position: relative;
+	color: black;
+	font-family: bold;
+	font-size: 18px;
+	left: 40px;
+	top: 210px;
+	display: inline-block;	
+}
+
+.redondo{
+	border-radius: 180px;
+	
+}
+
+.habilidades{
+	
+	color: white;
+	height: 40px;
+	font-family: 'Passion One', cursive;
+}
+
+#a1{
+	width: 560px;
+	background-color: purple;
+}
+
+#a2{
+	background-color: red;
+	width: 360px;
+}
+
+#a3{
+	background-color: green;
+	width: 260px;
+}
+
+.im{
+	width: 300px;
+	height: 200px;
+}
+
+.icon{
+	height: 50px;
+	width: 50px;
+	margin-left: 100px; 
+	margin-top:60px; 
+}
+.linea1{
+	width: 90px;
+}
+
+.linea2{
+	 border-right: 2px solid black;
+}
+
+.coders{
+	width: 211px;
+	height: 211px;
+}
+
+hr{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.marco{
+	border: 1px solid black;
+	border-radius: 15px;
+}
